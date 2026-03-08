@@ -9,7 +9,13 @@
 - Fried chicken lover
 - Homebrewer
 
-## 2024 goals
+## 2026 goals
+
+- [ ] Start a game development company
+- [ ] Start a beer brewing company
+- [ ] Learn more about AI
+
+## 2025 goals
 
 - [x] Buy a plot of land: Ongoing. I put the down payment for 1700 sqm plot of land, 220km away from my apartment.
 - [x] Learn more about 3D modeling: Done. Good enough to make CAD models for 3d printing.
@@ -20,3 +26,4 @@
 - [x] Start 2nd business.
 
 Phew, that's a lot for 2025.
+
